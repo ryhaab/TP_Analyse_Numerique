@@ -27,7 +27,10 @@ L'intégration est l'un des problèmes les plus importants rencontrés en analys
 La méthode de Newton est une des méthodes algorithmiques de résolution d’équations. Elle vient palier au défaut majeur de la dichotomie.
 - Avantages
   - converge rapidement quand elle converge (ce qui compense largement le dernier inconvénient)
-- Avantages : 
-           - converge rapidement quand elle converge (ce qui compense largement le dernier inconvénient) 
-           - relativement stable et peu sensible aux erreurs d'arrondis si f ′ (x∞) n'est pas trop petit. 
+  - relativement stable et peu sensible aux erreurs d'arrondis si f ′ (x∞) n'est pas trop petit.  
+- Inconvénients
+  - peut diverger ou converger vers un autre zéro que celui cherché si la donnée initiale est mal choisie.
+  - nécessite le calcul de la dérivée d'une fonction, ce qui est numériquement di cile si on ne la connait pas explicitement.
+  - chaque étape nécessite deux évaluations de fonctions.   
+         
 
