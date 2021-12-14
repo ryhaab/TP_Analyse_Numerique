@@ -40,7 +40,7 @@ La méthode de Newton est une des méthodes algorithmiques de résolution d’é
 on prend l'exemple suivant:
 Résolution de x − 0, 2 sin x − 0, 5 = 0 à l'aide des quatre algorithmes différents
 
-| dichotomie   | Newton      | Point fixe  |
+| Dichotomie   | Newton      | Point fixe  |
 |--------------|-------------|-------------|
 | 0.75         | 0, 5        | 0, 50       |
 | 0, 625       | 0, 61629718 | 0, 595885   |
