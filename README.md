@@ -3,7 +3,7 @@
  - [Introduction](#Introduction)
 - [Generalité](#Generalité)
 - [Les méthodes d'integration numérique](#Méthodes_numérique)
-  - [Méthode des Rectangles à gauche](#Rectangle_gauche)
+  -- [Méthode des Rectangles à gauche](#Rectangle_gauche)
   - [Méthode du point milieu](#Point_milieu)
   - [Méthode des trapézes](#Trapézes)
   - [Méthode de simpson](#Simpson)
