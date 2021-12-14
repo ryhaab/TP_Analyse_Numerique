@@ -25,6 +25,8 @@ L'intégration est l'un des problèmes les plus importants rencontrés en analys
 - La méthode de Simpson consiste à regrouper trois points consécutifs des courbes Mi, Mi+1 et Mi+2, et à remplacer l'arc de la courbe passant par ces trois points par un arc parabolique. Veuillez noter que si les points Mi, Mi + 1 et Mi + 2 sont alignés, le calcul du paramètre parabolique de l'équation y = mx2 + px + q, en passant ces points se traduira par m = 0. Dès lors, lorsqu'il s'agit d'une métaphore dégénérée, la situation n'est pas unique.
 ### Newton
 La méthode de Newton est une des méthodes algorithmiques de résolution d’équations. Elle vient palier au défaut majeur de la dichotomie.
+- Avantages
+  - converge rapidement quand elle converge (ce qui compense largement le dernier inconvénient)
 - Avantages : 
            - converge rapidement quand elle converge (ce qui compense largement le dernier inconvénient) 
            - relativement stable et peu sensible aux erreurs d'arrondis si f ′ (x∞) n'est pas trop petit. 
