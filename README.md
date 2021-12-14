@@ -8,7 +8,7 @@
   - [Méthode des trapézes](#Trapézes)
   - [Méthode de simpson](#Simpson)
   - [Méthode de Newton](#Newton)
-## <FONT color="#0BB296" size="14">Introduction</FONT>
+## <h1 style="color:red;">Introduction</h1>
 L'intégration est l'un des problèmes les plus importants rencontrés en analyse. En fait, on rencontre souvent des intégrations, dont le calcul par des méthodes analytiques est très compliqué voire impossible, car il n'y a pas d'expression analytique de la primitive de la fonction à intégrer. Dans ces cas, des méthodes composées peuvent être appliquées pour évaluer la valeur d'une intégrale donnée. La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. Nous divisons d'abord le grand intervalle [a, b] en N intervalles plus petits [ai, ai + 1], où a1 = a et aN + 1 = b. Ensuite, pour chaque intervalle [ai, ai + 1], on essaie d'approximer.
 ## Generalité
 - Si f est une fonction continue sur l'intervalle [a, b], on ne sait généralement pas comment calculer la primitive de f. Par conséquent, si vous souhaitez obtenir la valeur de $$\\int_a^bf(t)\\,dt$$\n, il est parfois nécessaire d'utiliser la méthode intégrale numérique d pour obtenir une valeur approximative. La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. Nous divisons d'abord le grand intervalle [a, b] en N intervalles plus petits [ai, ai + 1], où a1 = a et aN + 1 = b. Ensuite, pour chaque intervalle [ai, ai + 1], on essaie d'approximer. Le moyen le plus simple est :
