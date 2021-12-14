@@ -35,5 +35,6 @@ La méthode de Newton est une des méthodes algorithmiques de résolution d’é
   - peut diverger ou converger vers un autre zéro que celui cherché si la donnée initiale est mal choisie.
   - nécessite le calcul de la dérivée d'une fonction, ce qui est numériquement di cile si on ne la connait pas explicitement.
   - chaque étape nécessite deux évaluations de fonctions.   
+ ### Comparaison entre les méthodes 'dichotomie' 'Newton' et 'Point fixe'
          
 
