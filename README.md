@@ -37,5 +37,29 @@ La méthode de Newton est une des méthodes algorithmiques de résolution d’é
   - chaque étape nécessite deux évaluations de fonctions.   
  ### Conclusion
  - Comparaison entre les méthodes 'dichotomie' 'Newton' et 'Point fixe'
+on prend l'exemple suivant:
+Résolution de x − 0, 2 sin x − 0, 5 = 0 à l'aide des quatre algorithmes différents
+| dichotomie   | Newton      | Point fixe  |
+|--------------|-------------|-------------|
+| 0.75         | 0, 5        | 0, 50       |
+| 0, 625       | 0, 61629718 | 0, 595885   |
+| 0, 5625      | 0, 61546820 | 0, 612248   |
+| 0, 59375     | 0, 61546816 | 0, 614941   |
+| 0, 609375    |             | 0, 61538219 |
+| 0, 6171875   |             | 0, 61545412 |
+| 0, 6132812   |             | 0, 61546587 |
+| 0, 6152343   |             | 0, 61546779 |
+| 0, 6162109   |             | 0, 61546810 |
+| 0, 6157226   |             | 0, 61546815 |
+| 0, 6154785   |             |             |
+| 0, 6153564   |             |             |
+| 0, 6154174   |             |             |
+| 0, 6154479   |             |             |
+| 0, 6154532   |             |             |
+| 0, 61547088  |             |             |
+| 0, 61546707  |             |             |
+| 0, 61546897  |             |             |
+| 0, 615468025 |             |             |
+| 0, 615468502 |             |             |
          
 
