@@ -62,5 +62,7 @@ Résolution de x − 0, 2 sin x − 0, 5 = 0 à l'aide des quatre algorithmes di
 | 0, 61546897  |             |             |
 | 0, 615468025 |             |             |
 | 0, 615468502 |             |             |
+
+- Cet exemple montre que la méthode de newton est plus rapide que les autres méthodes.
          
 
